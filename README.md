@@ -4,9 +4,9 @@
 
 - Crie um repositório no seu github com o nome **'mstech-frontend'** e nos envie por e-mail a url.
 
-- **Tempo:** 72h a partir do envio do e-mail
+- **Tempo:** 72h a partir do envio do nosso e-mail
 
-- **Regras:** Serão considerados somente os commits que forem realizados no prazo (a partir do envio do e-mail)
+- **Regras:** Serão considerados somente os commits que forem realizados dentro do prazo (a partir do envio do nosso e-mail)
 
 
 - **Avaliaremos os seguintes quesitos:**
